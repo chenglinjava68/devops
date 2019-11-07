@@ -11,11 +11,6 @@ stages:
 cache:
   paths:
     - .m2/
-  
-
-before_script:
-  - docker info
-
 
 maven-build:
   image: 192.168.31.87:5000/ali-maven-docker:3.5.4-jdk-8-alpine
