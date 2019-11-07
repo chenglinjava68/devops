@@ -5,6 +5,7 @@
 备注：gitlab-runner及镜像仓库部署在本地，其他在k8s
 
 步骤
+
 1：mac安装docker desktop开启k8s
 
 2：部署helm
