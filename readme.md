@@ -1,5 +1,7 @@
 目的：基于gitlab的cicd流程
+
 环境：mac 
+
 备注：gitlab-runner及镜像仓库部署在本地，其他在k8s
 
 步骤
